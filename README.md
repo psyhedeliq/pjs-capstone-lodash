@@ -1,4 +1,4 @@
-###  Re-create the Lodash Library  ###
+#  Re-create the Lodash Library  #
 ## Codecademy project ## 
 
-# In this project I implemented ten methods from the popular Lodash JavaScript library. #
+### In this project I implemented ten methods from the popular Lodash JavaScript library. ###
