@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
   
   2. Open the folder  
   
-    open the Lodash folder in a text editor e.g. [Visual Studio Code](https://code.visualstudio.com/)
+    open the Lodash folder in a text editor (e.g. Visual Studio Code)
   
   3. Explore  
   
